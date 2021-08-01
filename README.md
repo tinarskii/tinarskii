@@ -5,7 +5,7 @@
   <li>Anchalee Jongkadeekij -<a href="https://www.youtube.com/watch?v=rXtxmVVS0dc">รัก</a></li>
   <li>Pause - <a href="https://www.youtube.com/watch?v=xrOjFBr1Sp4">ที่ว่าง</a></li>
   <li>Pause - <a href="https://www.youtube.com/watch?v=n_NTET76qZU">ดาว</a></li>
-  <li>Pause - <a href="https://www.youtube.com/watch?v=r1L_MzeuEjk">รักเธอทั้งหมดของหัวใ</a></li>
+  <li>Pause - <a href="https://www.youtube.com/watch?v=r1L_MzeuEjk">รักเธอทั้งหมดของหัวใจ</a></li>
   <li>Pause - <a href="https://www.youtube.com/watch?v=t6QZAWacVrU">ยื้อ</a></li>
     <li>BOYd <br/>(ft. Pod Moderndog, Radklao Armradit, Nop Ponchamni, Poe Yokeeplayboy, Rik Wachirapilan, Saichon Radomkit, Noi Pru, PingPong soul after six, Dojo city, Nadia,      Nong Pimpilak, Peerapat Tenwong, Lon Three For Three, Burin Bunwisut, Boy Thrai, Ben chalatit, B5, Thee Chaiyadet, Joe Pause, Kamala Sukosol)<br/> - 
       <a href="https://www.youtube.com/watch?v=ZZDV6UL7-kI">Pass the Love Forward</a></li>
