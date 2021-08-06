@@ -13,3 +13,6 @@
       <a href="https://www.youtube.com/watch?v=ZZDV6UL7-kI">Pass the Love Forward</a></li> -->
   <li>BOYd (ft. Nop Ponchamni) - <a href="https://www.youtube.com/watch?v=2VneCKLdtYQ">Pass the Love Forward</a></li>
 </ul>
+
+<h1>Music I like</h1>
+<a href="https://open.spotify.com/playlist/3NRpXTZ8BKwvmmm1C3YKCu?si=501c7f1a9d3245c3">Spotify Playlist</a>
