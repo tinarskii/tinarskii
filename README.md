@@ -16,3 +16,9 @@
 
 <h1>Music I like</h1>
 <a href="https://open.spotify.com/playlist/3NRpXTZ8BKwvmmm1C3YKCu?si=501c7f1a9d3245c3">Spotify Playlist</a>
+<br/>
+<br/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=TinPluss&count_private=true&show_icons=true" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinPluss&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TinPluss" />
