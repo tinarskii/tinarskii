@@ -1,4 +1,5 @@
 # All Projects
+• [YourDictionary]()
 • [Should You... ?](https://www.github.com/Tin-Tinnaphat/shouldYou)<br/>
 • [popEarn](https://www.github.com/Tin-Tinnaphat/popEarn)<br/>
 • [Earn VS Jeab](https://www.github.com/Tin-Tinnaphat/earn-vs-jeab)<br/>
@@ -6,7 +7,6 @@
 
 # W.I.P. Projects
 • [SYNX (Discord bot)](https://www.github.com/Tin-Tinnaphat/SYNX)<br/>
-• [YourDictionary]()
 
 # Project Idea
 • Gachanon: Never get salted again<br/>
