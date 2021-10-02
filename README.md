@@ -6,11 +6,7 @@
 • [Nicemcshop-tools](https://www.github.com/Tin-Tinnaphat/nicemcshop-tools)<br/>
 
 # W.I.P. Projects
-• [SYNX (Discord bot)](https://www.github.com/Tin-Tinnaphat/SYNX)<br/>
-• [Gachanon](https://www.github.com/Tin-Tinnaphat/Gachanon)<br/>
+• [SYNX (Discord bot)](https://www.github.com/Tin-Tinnaphat/SYNX) (Now Dead)<br/>
+• [Gachanon](https://www.github.com/Tin-Tinnaphat/Gachanon) (Now Dead)<br/>
 
 # Project Idea
-
-• IngLish as it is: Maek Inglish wurds spell as it saund<br/>
-• ราชาศัพท์ Converter: Convert Thai ราชาศัพท์ to Normal Thai or vice versa<br/>
-• GoldenFish Note: A Note application that will delete your note after 2 days
