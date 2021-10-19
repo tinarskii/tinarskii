@@ -2,7 +2,10 @@
 
 # My Favourite Band
 - Pause
+- Slot Machine
 - Flure
 - Armchair
+- SMF
+- The Olarn Project
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TinTinnaphat" />
