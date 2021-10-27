@@ -1,4 +1,4 @@
-# 👋 Hello! I am Tinnaphat
+This profile page is automatically updated every hour by [Profile Updater](https://github.com/narze/profile-updater) ✨
 
 <!--%%% PROFILE UPDATER (Tin-Tinnaphat/profile-updater) : START %%%-->
 ## Active projects
