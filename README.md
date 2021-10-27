@@ -4,7 +4,7 @@ This profile page is automatically updated every hour by [Profile Updater](https
 ## Active projects
 
 - [Cocoffee](https://github.com/Tin-Tinnaphat/Goshawk)
-- [Mukpakpak](https://github.com/Tin-Tinnaphat/MukPakPak)
+- [มุกแป๊ก ๆ](https://github.com/Tin-Tinnaphat/MukPakPak)
 - [The Earth Collection](https://github.com/Tin-Tinnaphat/Record-of-the-Earth)
 
 ## Past projects
