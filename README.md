@@ -15,7 +15,7 @@ This profile page is automatically updated every hour by [Profile Updater](https
 
 - [Tuu vs Thanathorn](https://github.com/Tin-Tinnaphat/earn-vs-jeab)
 - [youShould](https://github.com/Tin-Tinnaphat/shouldYou)
-- [Solar System](https://github.com/Tin-Tinnaphat/THREE.js-solar-system)
+- [Solar System](https://github.com/Tin-Tinnaphat/THREE.js-solar-system) ([1 Issues](https://github.com/Tin-Tinnaphat/THREE.js-solar-system/issues))
 - [ฟังเพลงไรดี](https://github.com/Tin-Tinnaphat/What-Should-I-Listen)
 
 ## Package modules
