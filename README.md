@@ -29,4 +29,6 @@ My Projects
 
 ## Contribute Projects
 
+- [Profile-updater](https://github.com/tinvv/profile-updater)
+
 <!--%%% PROFILE UPDATER (Tin-Tinnaphat/profile-updater) : END %%%-->
