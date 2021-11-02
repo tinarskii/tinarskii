@@ -7,7 +7,7 @@ This profile page is automatically updated every hour by [Profile Updater](https
 <details>
 <summary>What I am listening?</summary>
   
-[![img](https://spotify-github-profile.vercel.app/api/view?uid=0ysdo113nkd8khvn2kn7al2s5&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view.svg?uid=0ysdo113nkd8khvn2kn7al2s5&redirect=true)]
+[![img](https://spotify-github-profile.vercel.app/api/view?uid=0ysdo113nkd8khvn2kn7al2s5&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view.svg?uid=0ysdo113nkd8khvn2kn7al2s5&redirect=true)
   
 </details>
 
