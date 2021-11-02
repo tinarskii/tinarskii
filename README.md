@@ -1,5 +1,8 @@
 This profile page is automatically updated every hour by [Profile Updater](https://github.com/narze/profile-updater) ✨
 
+![img](https://github-profile-trophy.vercel.app/?username=Tin-Tinnaphat&theme=onedark&column=8)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0ysdo113nkd8khvn2kn7al2s5&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 <!--%%% PROFILE UPDATER (Tin-Tinnaphat/profile-updater) : START %%%-->
 ## Active projects
 
