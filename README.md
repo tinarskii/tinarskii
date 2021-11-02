@@ -19,24 +19,14 @@ My Projects
 <!--%%% PROFILE UPDATER (Tin-Tinnaphat/profile-updater) : START %%%-->
 ## Active projects
 
-* [Headache Dictionary](https://github.com/Tin-Tinnaphat/AnyDictionary)
-* [Discord.js-v13-bot-starter](https://github.com/Tin-Tinnaphat/Discord.js-v13-bot-starter)
-* [Cocoffee](https://github.com/Tin-Tinnaphat/Goshawk)
-* [มุกแป๊ก ๆ](https://github.com/Tin-Tinnaphat/MukPakPak)
-* [Nohello-th](https://github.com/Tin-Tinnaphat/nohello-th)
-* [The Earth Collection](https://github.com/Tin-Tinnaphat/Record-of-the-Earth)
-* [Web](https://github.com/Tin-Tinnaphat/web)
+- [Headache Dictionary](https://github.com/tinvv/AnyDictionary)
+- [Discord.js-v13-bot-starter](https://github.com/tinvv/Discord.js-v13-bot-starter)
+- [Cocoffee](https://github.com/tinvv/Goshawk)
+- [มุกแป๊ก ๆ](https://github.com/tinvv/MukPakPak)
+- [Nohello-th](https://github.com/tinvv/nohello-th)
+- [The Earth Collection](https://github.com/tinvv/Record-of-the-Earth)
+- [Web](https://github.com/tinvv/web)
 
-## Past projects
-
-* [Tuu vs Thanathorn](https://github.com/Tin-Tinnaphat/earn-vs-jeab)
-* [youShould](https://github.com/Tin-Tinnaphat/shouldYou)
-* [Solar System](https://github.com/Tin-Tinnaphat/THREE.js-solar-system) ([1 Issues](https://github.com/Tin-Tinnaphat/THREE.js-solar-system/issues))
-* [ฟังเพลงไรดี](https://github.com/Tin-Tinnaphat/What-Should-I-Listen)
-
-## Package modules
-
-- [Jsoptionpane](https://github.com/Tin-Tinnaphat/JSOptionPane)
-</details>
+## Contribute Projects
 
 <!--%%% PROFILE UPDATER (Tin-Tinnaphat/profile-updater) : END %%%-->
