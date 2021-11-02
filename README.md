@@ -2,7 +2,7 @@ This profile page is automatically updated every hour by [Profile Updater](https
 
 <details>
 <summary>Badge</summary>
-<img src="https://github-profile-trophy.vercel.app/?username=Tin-Tinnaphat&theme=discord&column=8)" />
+<img src="https://github-profile-trophy.vercel.app/?username=tinvv&theme=discord&column=8)" />
 </details>
 <details>
 <summary>What I am listening?</summary>
