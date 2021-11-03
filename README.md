@@ -3,6 +3,9 @@ This profile page is automatically updated every hour by [Profile Updater](https
 <details>
 <summary>Badge</summary>
 <img src="https://github-profile-trophy.vercel.app/?username=tinvv&theme=discord&column=8)" />
+ 
+![stats](https://github-readme-stats.vercel.app/api?username=tinvv&show_icons=true&line_height=24)
+ 
 </details>
 <details>
 <summary>What I am listening?</summary>
