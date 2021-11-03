@@ -29,6 +29,14 @@ My Projects
 
 ## Contribute Projects
 
+- [Awesome-cheab-quotes](https://github.com/tinvv/awesome-cheab-quotes)
+- [Awesome-prayuth-works](https://github.com/tinvv/awesome-prayuth-works)
+- [Baht.js](https://github.com/tinvv/baht.js)
+- [Coffee-to-code](https://github.com/tinvv/coffee-to-code)
+- [Learn](https://github.com/tinvv/learn)
+- [Nohello-th](https://github.com/tinvv/nohello-th)
+- [Nunmun](https://github.com/tinvv/nunmun)
 - [Profile-updater](https://github.com/tinvv/profile-updater)
+- [Torpleng](https://github.com/tinvv/torpleng)
 
 <!--%%% PROFILE UPDATER (Tin-Tinnaphat/profile-updater) : END %%%-->
