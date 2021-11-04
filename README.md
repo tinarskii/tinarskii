@@ -24,7 +24,6 @@ My Projects
 
 - [Headache Dictionary](https://github.com/tinvv/AnyDictionary)
 - [Discord.js-v13-bot-starter](https://github.com/tinvv/Discord.js-v13-bot-starter)
-- [Cocoffee](https://github.com/tinvv/Goshawk)
 - [มุกแป๊ก ๆ](https://github.com/tinvv/MukPakPak)
 - [Nohello-th](https://github.com/tinvv/nohello-th)
 - [The Earth Collection](https://github.com/tinvv/Record-of-the-Earth)
