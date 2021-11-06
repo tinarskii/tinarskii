@@ -33,9 +33,9 @@ My Projects
 - [blog](https://github.com/tinvv/blog)
 - [dotfiles](https://github.com/tinvv/dotfiles) ( [1 stars](https://github.com/tinvv/dotfiles/stargazers) )
 - [earn-vs-jeab](https://github.com/tinvv/earn-vs-jeab)
-- [github-profile-updater](https://github.com/tinvv/github-profile-updater) ( [2 stars](https://github.com/tinvv/github-profile-updater/stargazers) )
 - [i-have-no-idea](https://github.com/tinvv/i-have-no-idea) ( [2 stars](https://github.com/tinvv/i-have-no-idea/stargazers) )
 - [popEarn](https://github.com/tinvv/popEarn)
+- [profile-updater](https://github.com/tinvv/profile-updater) ( [2 stars](https://github.com/tinvv/profile-updater/stargazers) )
 - [shouldYou](https://github.com/tinvv/shouldYou) ( [1 stars](https://github.com/tinvv/shouldYou/stargazers) )
 - [tinvv](https://github.com/tinvv/tinvv) ( [2 stars](https://github.com/tinvv/tinvv/stargazers) )
 - [web](https://github.com/tinvv/web)
@@ -59,7 +59,6 @@ My Projects
 - [nohello-th](https://github.com/tinvv/nohello-th)
 - [nunmun](https://github.com/tinvv/nunmun)
 - [poppoll](https://github.com/tinvv/poppoll)
-- [profile-updater](https://github.com/tinvv/profile-updater)
 - [timelapse](https://github.com/tinvv/timelapse)
 - [torpleng](https://github.com/tinvv/torpleng)
 <!-- [PROFILE UPDATER]: END -->
