@@ -19,8 +19,8 @@ This profile page is automatically updated every hour by [Profile Updater](https
 My Projects
 </summary>
   
-<!--%%% PROFILE UPDATER (Tin-Tinnaphat/profile-updater) : START %%%-->
-## Active projects
+<!-- [PROFILE UPDATER]: START -->
+ ## Active projects
 
 - [Headache Dictionary](https://github.com/tinvv/AnyDictionary)
 - [Discord.js-v13-bot-starter](https://github.com/tinvv/Discord.js-v13-bot-starter)
@@ -40,4 +40,4 @@ My Projects
 - [Profile-updater](https://github.com/tinvv/profile-updater)
 - [Torpleng](https://github.com/tinvv/torpleng)
 
-<!--%%% PROFILE UPDATER (Tin-Tinnaphat/profile-updater) : END %%%-->
+<!-- [PROFILE UPDATER]: END -->
