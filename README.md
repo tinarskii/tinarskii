@@ -33,7 +33,7 @@ My Projects
 - [blog](https://github.com/tinvv/blog)
 - [dotfiles](https://github.com/tinvv/dotfiles) ( [1 stars](https://github.com/tinvv/dotfiles/stargazers) )
 - [earn-vs-jeab](https://github.com/tinvv/earn-vs-jeab)
-- [github-profile-updater](https://github.com/tinvv/github-profile-updater) ( [1 stars](https://github.com/tinvv/github-profile-updater/stargazers) )
+- [github-profile-updater](https://github.com/tinvv/github-profile-updater) ( [2 stars](https://github.com/tinvv/github-profile-updater/stargazers) )
 - [i-have-no-idea](https://github.com/tinvv/i-have-no-idea) ( [2 stars](https://github.com/tinvv/i-have-no-idea/stargazers) )
 - [popEarn](https://github.com/tinvv/popEarn)
 - [shouldYou](https://github.com/tinvv/shouldYou) ( [1 stars](https://github.com/tinvv/shouldYou/stargazers) )
