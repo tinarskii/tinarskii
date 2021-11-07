@@ -21,21 +21,21 @@ My Projects
   
 <!-- [PROFILE UPDATER]: START -->
 ## My Projects
-- [555](https://github.com/tinvv/555) ( [1 stars](https://github.com/tinvv/555/stargazers) )
-- [AnyDictionary](https://github.com/tinvv/AnyDictionary) ( [1 stars](https://github.com/tinvv/AnyDictionary/stargazers) )
+- [555](https://github.com/tinvv/555) ( [2 stars](https://github.com/tinvv/555/stargazers) )
+- [AnyDictionary](https://github.com/tinvv/AnyDictionary) ( [2 stars](https://github.com/tinvv/AnyDictionary/stargazers) )
 - [Chanom](https://github.com/tinvv/Chanom)
-- [ClonerSpace-Font](https://github.com/tinvv/ClonerSpace-Font) ( [1 stars](https://github.com/tinvv/ClonerSpace-Font/stargazers) )
-- [Discord.js-v13-bot-starter](https://github.com/tinvv/Discord.js-v13-bot-starter) ( [2 stars](https://github.com/tinvv/Discord.js-v13-bot-starter/stargazers) )
+- [ClonerSpace-Font](https://github.com/tinvv/ClonerSpace-Font) ( [2 stars](https://github.com/tinvv/ClonerSpace-Font/stargazers) )
+- [Discord.js-v13-bot-starter](https://github.com/tinvv/Discord.js-v13-bot-starter) ( [3 stars](https://github.com/tinvv/Discord.js-v13-bot-starter/stargazers) )
 - [JSOptionPane](https://github.com/tinvv/JSOptionPane)
-- [MukPakPak](https://github.com/tinvv/MukPakPak) ( [3 stars](https://github.com/tinvv/MukPakPak/stargazers) )
-- [Record-of-the-Earth](https://github.com/tinvv/Record-of-the-Earth) ( [3 stars](https://github.com/tinvv/Record-of-the-Earth/stargazers) )
-- [THREE.js-solar-system](https://github.com/tinvv/THREE.js-solar-system) ( [2 stars](https://github.com/tinvv/THREE.js-solar-system/stargazers) [1 issues](https://github.com/tinvv/THREE.js-solar-system/issues) )
-- [What-Should-I-Listen](https://github.com/tinvv/What-Should-I-Listen) ( [5 stars](https://github.com/tinvv/What-Should-I-Listen/stargazers) )
+- [MukPakPak](https://github.com/tinvv/MukPakPak) ( [4 stars](https://github.com/tinvv/MukPakPak/stargazers) )
+- [Record-of-the-Earth](https://github.com/tinvv/Record-of-the-Earth) ( [4 stars](https://github.com/tinvv/Record-of-the-Earth/stargazers) )
+- [THREE.js-solar-system](https://github.com/tinvv/THREE.js-solar-system) ( [3 stars](https://github.com/tinvv/THREE.js-solar-system/stargazers) [1 issues](https://github.com/tinvv/THREE.js-solar-system/issues) )
+- [What-Should-I-Listen](https://github.com/tinvv/What-Should-I-Listen) ( [6 stars](https://github.com/tinvv/What-Should-I-Listen/stargazers) )
 - [blog](https://github.com/tinvv/blog)
-- [i-have-no-idea](https://github.com/tinvv/i-have-no-idea) ( [2 stars](https://github.com/tinvv/i-have-no-idea/stargazers) )
-- [profile-updater](https://github.com/tinvv/profile-updater) ( [4 stars](https://github.com/tinvv/profile-updater/stargazers) )
-- [shouldYou](https://github.com/tinvv/shouldYou) ( [1 stars](https://github.com/tinvv/shouldYou/stargazers) )
-- [tinvv](https://github.com/tinvv/tinvv) ( [2 stars](https://github.com/tinvv/tinvv/stargazers) )
+- [i-have-no-idea](https://github.com/tinvv/i-have-no-idea) ( [3 stars](https://github.com/tinvv/i-have-no-idea/stargazers) )
+- [profile-updater](https://github.com/tinvv/profile-updater) ( [5 stars](https://github.com/tinvv/profile-updater/stargazers) )
+- [shouldYou](https://github.com/tinvv/shouldYou) ( [2 stars](https://github.com/tinvv/shouldYou/stargazers) )
+- [tinvv](https://github.com/tinvv/tinvv) ( [3 stars](https://github.com/tinvv/tinvv/stargazers) )
 - [web](https://github.com/tinvv/web)
 
 ## My contribution
