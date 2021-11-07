@@ -26,7 +26,6 @@ My Projects
 - [Chanom](https://github.com/tinvv/Chanom)
 - [ClonerSpace-Font](https://github.com/tinvv/ClonerSpace-Font) ( [1 stars](https://github.com/tinvv/ClonerSpace-Font/stargazers) )
 - [Discord.js-v13-bot-starter](https://github.com/tinvv/Discord.js-v13-bot-starter) ( [2 stars](https://github.com/tinvv/Discord.js-v13-bot-starter/stargazers) )
-- [Earth](https://github.com/tinvv/Earth) ( [1 stars](https://github.com/tinvv/Earth/stargazers) )
 - [JSOptionPane](https://github.com/tinvv/JSOptionPane)
 - [MukPakPak](https://github.com/tinvv/MukPakPak) ( [3 stars](https://github.com/tinvv/MukPakPak/stargazers) )
 - [Record-of-the-Earth](https://github.com/tinvv/Record-of-the-Earth) ( [3 stars](https://github.com/tinvv/Record-of-the-Earth/stargazers) )
