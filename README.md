@@ -1,4 +1,4 @@
-This profile page is automatically updated every 5 minutes by [Profile Updater](https://github.com/tinvv/profile-updater) ✨
+This profile page is automatically updated every hour by [Profile Updater](https://github.com/tinvv/profile-updater) ✨
 
 <details>
 <summary>Badge</summary>
