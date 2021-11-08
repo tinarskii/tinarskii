@@ -57,6 +57,7 @@ My Projects
 - [nohello-th](https://github.com/tinvv/nohello-th)
 - [nunmun](https://github.com/tinvv/nunmun)
 - [poppoll](https://github.com/tinvv/poppoll)
+- [resound](https://github.com/tinvv/resound)
 - [timelapse](https://github.com/tinvv/timelapse)
 - [torpleng](https://github.com/tinvv/torpleng)
 <!-- [PROFILE UPDATER]: END -->
