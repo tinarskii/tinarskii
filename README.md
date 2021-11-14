@@ -33,8 +33,6 @@ My Projects
 - [Record-of-the-Earth](https://github.com/tinvv/Record-of-the-Earth) ( [4 stars](https://github.com/tinvv/Record-of-the-Earth/stargazers) )
 - [THREE.js-solar-system](https://github.com/tinvv/THREE.js-solar-system) ( [3 stars](https://github.com/tinvv/THREE.js-solar-system/stargazers) [1 issues](https://github.com/tinvv/THREE.js-solar-system/issues) )
 - [What-Should-I-Listen](https://github.com/tinvv/What-Should-I-Listen) ( [6 stars](https://github.com/tinvv/What-Should-I-Listen/stargazers) )
-- [blog](https://github.com/tinvv/blog) ( [1 stars](https://github.com/tinvv/blog/stargazers) )
-- [i-have-no-idea](https://github.com/tinvv/i-have-no-idea) ( [3 stars](https://github.com/tinvv/i-have-no-idea/stargazers) )
 - [profile-updater](https://github.com/tinvv/profile-updater) ( [5 stars](https://github.com/tinvv/profile-updater/stargazers) )
 - [shouldYou](https://github.com/tinvv/shouldYou) ( [2 stars](https://github.com/tinvv/shouldYou/stargazers) )
 - [tinvv](https://github.com/tinvv/tinvv) ( [3 stars](https://github.com/tinvv/tinvv/stargazers) )
