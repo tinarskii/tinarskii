@@ -25,7 +25,6 @@ My Projects
 - [555](https://github.com/tinvv/555) ( [2 stars](https://github.com/tinvv/555/stargazers) )
 - [AnyDictionary](https://github.com/tinvv/AnyDictionary) ( [2 stars](https://github.com/tinvv/AnyDictionary/stargazers) )
 - [Chanom](https://github.com/tinvv/Chanom) ( [1 stars](https://github.com/tinvv/Chanom/stargazers) )
-- [ClonerSpace-Font](https://github.com/tinvv/ClonerSpace-Font) ( [2 stars](https://github.com/tinvv/ClonerSpace-Font/stargazers) )
 - [Discord.js-v13-bot-starter](https://github.com/tinvv/Discord.js-v13-bot-starter) ( [4 stars](https://github.com/tinvv/Discord.js-v13-bot-starter/stargazers) )
 - [JSOptionPane](https://github.com/tinvv/JSOptionPane) ( [1 stars](https://github.com/tinvv/JSOptionPane/stargazers) )
 - [Manoonland](https://github.com/tinvv/Manoonland)
