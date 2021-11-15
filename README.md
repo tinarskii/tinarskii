@@ -22,7 +22,7 @@ My Projects
 <!-- [PROFILE UPDATER]: START -->
 ## My Projects
 - [100DaysOfProgramming](https://github.com/tinvv/100DaysOfProgramming)
-- [555](https://github.com/tinvv/555) ( [2 stars](https://github.com/tinvv/555/stargazers) )
+- [555](https://github.com/tinvv/555) ( [3 stars](https://github.com/tinvv/555/stargazers) )
 - [AnyDictionary](https://github.com/tinvv/AnyDictionary) ( [2 stars](https://github.com/tinvv/AnyDictionary/stargazers) )
 - [Chanom](https://github.com/tinvv/Chanom) ( [1 stars](https://github.com/tinvv/Chanom/stargazers) )
 - [Discord.js-v13-bot-starter](https://github.com/tinvv/Discord.js-v13-bot-starter) ( [4 stars](https://github.com/tinvv/Discord.js-v13-bot-starter/stargazers) )
