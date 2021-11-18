@@ -33,7 +33,7 @@ My Projects
 - [MukPakPak](https://github.com/tinvv/MukPakPak) ( [4 stars](https://github.com/tinvv/MukPakPak/stargazers) )
 - [Record-of-the-Earth](https://github.com/tinvv/Record-of-the-Earth) ( [4 stars](https://github.com/tinvv/Record-of-the-Earth/stargazers) )
 - [THREE.js-resume](https://github.com/tinvv/THREE.js-resume)
-- [THREE.js-solar-system](https://github.com/tinvv/THREE.js-solar-system) ( [3 stars](https://github.com/tinvv/THREE.js-solar-system/stargazers) [1 issues](https://github.com/tinvv/THREE.js-solar-system/issues) )
+- [THREE.js-solar-system](https://github.com/tinvv/THREE.js-solar-system) ( [3 stars](https://github.com/tinvv/THREE.js-solar-system/stargazers) )
 - [What-Should-I-Listen](https://github.com/tinvv/What-Should-I-Listen) ( [6 stars](https://github.com/tinvv/What-Should-I-Listen/stargazers) )
 - [profile-updater](https://github.com/tinvv/profile-updater) ( [5 stars](https://github.com/tinvv/profile-updater/stargazers) )
 - [shouldYou](https://github.com/tinvv/shouldYou) ( [2 stars](https://github.com/tinvv/shouldYou/stargazers) )
