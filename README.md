@@ -23,7 +23,7 @@ My Projects
   
 <!-- [PROFILE UPDATER]: START -->
 ## My Projects
-- [100DaysOfProgramming](https://github.com/tinvv/100DaysOfProgramming) ( [3 stars](https://github.com/tinvv/100DaysOfProgramming/stargazers) )
+- [100DaysOfProgramming](https://github.com/tinvv/100DaysOfProgramming) ( [4 stars](https://github.com/tinvv/100DaysOfProgramming/stargazers) )
 - [555](https://github.com/tinvv/555) ( [3 stars](https://github.com/tinvv/555/stargazers) )
 - [AnyDictionary](https://github.com/tinvv/AnyDictionary) ( [2 stars](https://github.com/tinvv/AnyDictionary/stargazers) )
 - [Chanom](https://github.com/tinvv/Chanom) ( [1 stars](https://github.com/tinvv/Chanom/stargazers) )
@@ -36,7 +36,7 @@ My Projects
 - [THREE.js-solar-system](https://github.com/tinvv/THREE.js-solar-system) ( [3 stars](https://github.com/tinvv/THREE.js-solar-system/stargazers) )
 - [What-Should-I-Listen](https://github.com/tinvv/What-Should-I-Listen) ( [6 stars](https://github.com/tinvv/What-Should-I-Listen/stargazers) )
 - [blog](https://github.com/tinvv/blog)
-- [digital-garden](https://github.com/tinvv/digital-garden)
+- [digital-garden](https://github.com/tinvv/digital-garden) ( [1 stars](https://github.com/tinvv/digital-garden/stargazers) )
 - [profile-updater](https://github.com/tinvv/profile-updater) ( [5 stars](https://github.com/tinvv/profile-updater/stargazers) )
 - [shouldYou](https://github.com/tinvv/shouldYou) ( [2 stars](https://github.com/tinvv/shouldYou/stargazers) )
 - [tinvv](https://github.com/tinvv/tinvv) ( [3 stars](https://github.com/tinvv/tinvv/stargazers) )
