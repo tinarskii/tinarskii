@@ -25,7 +25,7 @@ My Projects
   
 <!-- [PROFILE UPDATER]: START -->
 ## My Projects
-- [100DaysOfProgramming](https://github.com/tinvv/100DaysOfProgramming) ( [4 stars](https://github.com/tinvv/100DaysOfProgramming/stargazers) )
+- [100DaysOfProgramming](https://github.com/tinvv/100DaysOfProgramming) ( [5 stars](https://github.com/tinvv/100DaysOfProgramming/stargazers) )
 - [555](https://github.com/tinvv/555) ( [3 stars](https://github.com/tinvv/555/stargazers) )
 - [AnyDictionary](https://github.com/tinvv/AnyDictionary) ( [2 stars](https://github.com/tinvv/AnyDictionary/stargazers) )
 - [Chanom](https://github.com/tinvv/Chanom) ( [1 stars](https://github.com/tinvv/Chanom/stargazers) )
