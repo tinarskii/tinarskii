@@ -74,6 +74,9 @@ Want to skip plutia? NO!
 ## Did you make neptune to be like this?
 ![what? no!](https://c.tenor.com/XRG56h03f6oAAAAC/plutia.gif)
 
+## No plutia don't do it!!
+![hope she will](https://static.wikia.nocookie.net/neptunia/images/c/cf/Plutia_-_Hyperdimension_Neptunia_The_Animation.png/revision/latest/scale-to-width-down/1000?cb=20170503190352)
+
 ## Have fun
 ![nooooooooo](https://c.tenor.com/6Mf1Q4OMZ98AAAAC/plutia-iris-heart.gif)
 
