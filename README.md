@@ -59,8 +59,8 @@ Want to skip plutia? NO!
 ## Let's go to beach!!
 ![sure](https://static.wikia.nocookie.net/neptunia/images/c/cc/RB1_CG_16.png/revision/latest/scale-to-width-down/1000?cb=20180418054833)
 
-## Okay I will eat this pudding first
-![go on](https://c.tenor.com/UGJVmEYsMK4AAAAC/neptune-neptunia.gif)
+## Okay I let me sleep first
+![go on](https://c.tenor.com/i_XYW_vXlPMAAAAC/nep-anime.gif)
 
 ## Oh! let's go!
 ![nepgo](https://c.tenor.com/K9pCFSvrXW8AAAAC/nep-anime.gif)
