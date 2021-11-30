@@ -81,6 +81,9 @@ Want to skip plutia? NO!
 ## Compa help me pls
 ![no](https://static.wikia.nocookie.net/neptunia/images/9/9c/HD_Noire-Compa_Kiss_Front.png/revision/latest/scale-to-width-down/1000?cb=20190822040037)
 
+## ...
+![plutiaissocuteeeeeee](https://static.wikia.nocookie.net/neptunia/images/b/b2/Plutia_-_Hyperdimension_Neptunia_The_Animation_3.png/revision/latest/scale-to-width-down/1000?cb=20180329061602)
+
 // To be continued...
 
 # Neproll
