@@ -1,4 +1,5 @@
-[![wakatime](https://wakatime.com/badge/user/5cb7cd14-ac7e-4fc0-9f81-6036760cb6a3.svg)](https://wakatime.com/@5cb7cd14-ac7e-4fc0-9f81-6036760cb6a3)
+[![wakatime](https://wakatime.com/badge/user/5cb7cd14-ac7e-4fc0-9f81-6036760cb6a3.svg)](https://wakatime.com/@5cb7cd14-ac7e-4fc0-9f81-6036760cb6a3)<br>
+Want to skip plutia? NO!
 
 # plu!!!!
 
@@ -41,8 +42,31 @@
 - "Maybe I'm a tad angry!"
 - "Sorry... I don't see you as a man... or a human being, really."
 
-# Hi
-![blanc](https://static.wikia.nocookie.net/neptunia/images/6/6b/RB1_Blanc.png/revision/latest/scale-to-width-down/470?cb=20141019230140)
+# Volume 1
+
+## Hi
+![hi blanc](https://static.wikia.nocookie.net/neptunia/images/6/6b/RB1_Blanc.png/revision/latest/scale-to-width-down/470?cb=20141019230140)
+
+## oops
+![:looking:](https://static.wikia.nocookie.net/neptunia/images/7/78/VVVtune-Blanc_2.png/revision/latest/scale-to-width-down/1000?cb=20200313165144)
+
+## What are you looking at!!?
+![nothing](https://static.wikia.nocookie.net/neptunia/images/f/fa/Anime_Blanc_Embarrassed.png/revision/latest/scale-to-width-down/600?cb=20160727164545)
+
+## What are you guys doing?
+![oh, um...](https://static.wikia.nocookie.net/neptunia/images/5/57/Neptune_HDN.png/revision/latest/scale-to-width-down/624?cb=20141019221325)
+
+## Let's go to beach!!
+![sure](https://static.wikia.nocookie.net/neptunia/images/c/cc/RB1_CG_16.png/revision/latest/scale-to-width-down/1000?cb=20180418054833)
+
+## Okay I will eat this pudding first
+![go on](https://c.tenor.com/UGJVmEYsMK4AAAAC/neptune-neptunia.gif)
+
+## Oh! let's go!
+![nepgo](https://c.tenor.com/K9pCFSvrXW8AAAAC/nep-anime.gif)
+
+## (What the ... are you doing nep?)
+![nepsafeforwork](https://c.tenor.com/4eOo1iVHtrQAAAAC/nep-anime.gif)
 
 # Neproll
 ![neproll](https://c.tenor.com/uBHGeNeYUnMAAAAC/neptune-cute.gif)
