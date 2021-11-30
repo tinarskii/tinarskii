@@ -1,5 +1,9 @@
 [![wakatime](https://wakatime.com/badge/user/5cb7cd14-ac7e-4fc0-9f81-6036760cb6a3.svg)](https://wakatime.com/@5cb7cd14-ac7e-4fc0-9f81-6036760cb6a3)
 
+plu!!!!
+
+![plutia](https://static.wikia.nocookie.net/neptunia/images/b/b3/09_Plutia_chibi.png/revision/latest/scale-to-width-down/345?cb=20140623153254)
+
 <img src="https://c.tenor.com/OjttujpmWE0AAAAC/plutia-hyperdimension-neptunia.gif"  />
 
 ![pururut](https://c.tenor.com/MNaxIbg2jqIAAAAC/plutia-anime.gif)
@@ -14,6 +18,9 @@
 ![pururut](https://c.tenor.com/Kbgmnc9TrmQAAAAC/anime-plutia.gif)
 ![pururut](https://c.tenor.com/yjMETQFDyBwAAAAM/hyperdimension-neptunia-iris-heart.gif)
 ![pururut](https://c.tenor.com/QqbFSBYbgrMAAAAd/plutia-hyperdimension-neptunia.gif)
+
+![pururut](https://static.wikia.nocookie.net/neptunia/images/2/21/Plutia_Tapestry.jpg/revision/latest/scale-to-width-down/750?cb=20210423010556)
+![pururut](https://static.wikia.nocookie.net/neptunia/images/e/e3/Who%27s_the_Daddy%21.png/revision/latest/scale-to-width-down/1000?cb=20161016182511)
 
 - "Ooh, you're still alive. Um, are you... umm... okay?"
 - "No, I'm telling you the truth. I would never tell a lie..."
