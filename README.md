@@ -2,6 +2,22 @@
 
 <img src="https://c.tenor.com/OjttujpmWE0AAAAC/plutia-hyperdimension-neptunia.gif"  />
 
+![pururut](https://c.tenor.com/MNaxIbg2jqIAAAAC/plutia-anime.gif)
+![pururut](https://c.tenor.com/XRG56h03f6oAAAAC/plutia.gif)
+![pururut](https://c.tenor.com/jwvxbVagFs4AAAAC/plutia.gif)
+![pururut](https://c.tenor.com/eAovg_mOt-oAAAAC/plutia-hyperdimension-neptunia.gif)
+![pururut](https://c.tenor.com/6Mf1Q4OMZ98AAAAC/plutia-iris-heart.gif)
+![pururut](https://c.tenor.com/M6v3LMKve-4AAAAC/plutia-hyperdimension-neptunia.gif)
+![pururut](https://c.tenor.com/tDXO6XGWZvEAAAAC/plutia-sand-castle.gif)
+![pururut](https://c.tenor.com/voPqPQAnh7IAAAAd/plutia-hyperdimension-neptunia.gif)
+![pururut](https://c.tenor.com/vWMA6DwPeAIAAAAC/plutia-hug.gif)
+![pururut](https://c.tenor.com/Kbgmnc9TrmQAAAAC/anime-plutia.gif)
+![pururut](https://c.tenor.com/yjMETQFDyBwAAAAM/hyperdimension-neptunia-iris-heart.gif)
+![pururut](https://c.tenor.com/QqbFSBYbgrMAAAAd/plutia-hyperdimension-neptunia.gif)
+
+# Neproll
+![neproll](https://c.tenor.com/uBHGeNeYUnMAAAAC/neptune-cute.gif)
+
 This profile page is automatically updated every hour by [Profile Updater](https://github.com/tinvv/profile-updater) ✨
 
 <details>
