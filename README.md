@@ -41,6 +41,9 @@
 - "Maybe I'm a tad angry!"
 - "Sorry... I don't see you as a man... or a human being, really."
 
+# Hi
+![blanc](https://static.wikia.nocookie.net/neptunia/images/6/6b/RB1_Blanc.png/revision/latest/scale-to-width-down/470?cb=20141019230140)
+
 # Neproll
 ![neproll](https://c.tenor.com/uBHGeNeYUnMAAAAC/neptune-cute.gif)
 
