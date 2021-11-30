@@ -1,4 +1,5 @@
 # Just in Case, My name is Tinnaphat "Tin" Somsang
+# 100DaysOfProgramming Tomorrow!
 
 [![wakatime](https://wakatime.com/badge/user/5cb7cd14-ac7e-4fc0-9f81-6036760cb6a3.svg)](https://wakatime.com/@5cb7cd14-ac7e-4fc0-9f81-6036760cb6a3)<br>
 Want to skip plutia? NO!
