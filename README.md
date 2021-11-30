@@ -15,6 +15,25 @@
 ![pururut](https://c.tenor.com/yjMETQFDyBwAAAAM/hyperdimension-neptunia-iris-heart.gif)
 ![pururut](https://c.tenor.com/QqbFSBYbgrMAAAAd/plutia-hyperdimension-neptunia.gif)
 
+- "Ooh, you're still alive. Um, are you... umm... okay?"
+- "No, I'm telling you the truth. I would never tell a lie..."
+- "Uh-oh... I did it again."
+- "But if this many monsters are around, we can't have a picnic..."
+- "Peer-at-you? Aw, that's not a cute name at all..." (Plutia mispronouncing Pirachu's name)
+- "Ooh, clever girl..."
+- "Wow, fun!"
+- "Aw, she's so lucky... Neppy made fast friends with all of the kids..."
+- "Huh? Neppy gave the wrong answer?"
+- "Aww, I wanted to stay longer and play a while longer..."
+- "The Seven Nutmegs are evil!"
+- "Mister Creeper is amazing... I want him to teach me his ways..."
+- "Let's give it our all!"
+- "I'll help you!"
+- "Neppy! Look at this! Isn't this so much fun!? Do it with me Neppy!"
+- "I can transform, right...?!"
+- "Maybe I'm a tad angry!"
+- "Sorry... I don't see you as a man... or a human being, really."
+
 # Neproll
 ![neproll](https://c.tenor.com/uBHGeNeYUnMAAAAC/neptune-cute.gif)
 
