@@ -68,6 +68,19 @@ Want to skip plutia? NO!
 ## (What the ... are you doing nep?)
 ![nepsafeforwork](https://c.tenor.com/4eOo1iVHtrQAAAAC/nep-anime.gif)
 
+## Did you make neptune to be like this?
+![what? no!](https://c.tenor.com/XRG56h03f6oAAAAC/plutia.gif)
+
+## Have fun
+![nooooooooo](https://c.tenor.com/6Mf1Q4OMZ98AAAAC/plutia-iris-heart.gif)
+
+![nicemouse](https://c.tenor.com/eAovg_mOt-oAAAAC/plutia-hyperdimension-neptunia.gif)
+
+## Compa help me pls
+![no](https://static.wikia.nocookie.net/neptunia/images/9/9c/HD_Noire-Compa_Kiss_Front.png/revision/latest/scale-to-width-down/1000?cb=20190822040037)
+
+// To be continued...
+
 # Neproll
 ![neproll](https://c.tenor.com/uBHGeNeYUnMAAAAC/neptune-cute.gif)
 
