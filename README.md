@@ -134,7 +134,7 @@ My Projects
 - [THREE.js-solar-system](https://github.com/tinvv/THREE.js-solar-system) ( [3 stars](https://github.com/tinvv/THREE.js-solar-system/stargazers) [1 issues](https://github.com/tinvv/THREE.js-solar-system/issues) )
 - [ThaiLang](https://github.com/tinvv/ThaiLang) ( [4 stars](https://github.com/tinvv/ThaiLang/stargazers) )
 - [What-Should-I-Listen](https://github.com/tinvv/What-Should-I-Listen) ( [5 stars](https://github.com/tinvv/What-Should-I-Listen/stargazers) )
-- [bing-chiller-and-super-idol](https://github.com/tinvv/bing-chiller-and-super-idol)
+- [bing-chiller-and-super-idol](https://github.com/tinvv/bing-chiller-and-super-idol) ( [1 stars](https://github.com/tinvv/bing-chiller-and-super-idol/stargazers) )
 - [blog](https://github.com/tinvv/blog)
 - [digital-garden](https://github.com/tinvv/digital-garden) ( [1 stars](https://github.com/tinvv/digital-garden/stargazers) )
 - [profile-updater](https://github.com/tinvv/profile-updater) ( [5 stars](https://github.com/tinvv/profile-updater/stargazers) )
