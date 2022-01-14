@@ -111,7 +111,6 @@ My Projects
   
 <!-- [PROFILE UPDATER]: START -->
 ## My Projects
-- [100DaysOfProgramming](https://github.com/tinvv/100DaysOfProgramming) ( [5 stars](https://github.com/tinvv/100DaysOfProgramming/stargazers) )
 - [555](https://github.com/tinvv/555) ( [3 stars](https://github.com/tinvv/555/stargazers) )
 - [Anti-Chrome](https://github.com/tinvv/Anti-Chrome) ( [2 stars](https://github.com/tinvv/Anti-Chrome/stargazers) )
 - [AnyDictionary](https://github.com/tinvv/AnyDictionary) ( [2 stars](https://github.com/tinvv/AnyDictionary/stargazers) )
@@ -141,6 +140,8 @@ My Projects
 ## My contribution
 - [Chat-Client-and-Server-with-Java-Socket](https://github.com/tinvv/Chat-Client-and-Server-with-Java-Socket)
 - [DaiMai](https://github.com/tinvv/DaiMai)
+- [FunctinoScript](https://github.com/tinvv/FunctinoScript)
+- [Hello-World](https://github.com/tinvv/Hello-World)
 - [SadetLibraryAPI](https://github.com/tinvv/SadetLibraryAPI)
 - [antibadwordbot](https://github.com/tinvv/antibadwordbot)
 - [awesome-cheab-quotes](https://github.com/tinvv/awesome-cheab-quotes)
