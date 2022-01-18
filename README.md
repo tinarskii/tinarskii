@@ -131,6 +131,8 @@ My Projects
 - [bing-chiller-and-super-idol](https://github.com/tinvv/bing-chiller-and-super-idol) ( [1 stars](https://github.com/tinvv/bing-chiller-and-super-idol/stargazers) )
 - [blog](https://github.com/tinvv/blog)
 - [digital-garden](https://github.com/tinvv/digital-garden) ( [1 stars](https://github.com/tinvv/digital-garden/stargazers) )
+- [homeworkmanager-bot](https://github.com/tinvv/homeworkmanager-bot)
+- [homeworkmanager](https://github.com/tinvv/homeworkmanager)
 - [profile-updater](https://github.com/tinvv/profile-updater) ( [5 stars](https://github.com/tinvv/profile-updater/stargazers) )
 - [shouldYou](https://github.com/tinvv/shouldYou) ( [2 stars](https://github.com/tinvv/shouldYou/stargazers) )
 - [tinvv](https://github.com/tinvv/tinvv) ( [3 stars](https://github.com/tinvv/tinvv/stargazers) )
