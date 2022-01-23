@@ -114,6 +114,7 @@ My Projects
 - [555](https://github.com/tinvv/555) ( [3 stars](https://github.com/tinvv/555/stargazers) )
 - [Anti-Chrome](https://github.com/tinvv/Anti-Chrome) ( [2 stars](https://github.com/tinvv/Anti-Chrome/stargazers) )
 - [AnyDictionary](https://github.com/tinvv/AnyDictionary) ( [2 stars](https://github.com/tinvv/AnyDictionary/stargazers) )
+- [Awesome-Quotes](https://github.com/tinvv/Awesome-Quotes)
 - [Chanom](https://github.com/tinvv/Chanom) ( [1 stars](https://github.com/tinvv/Chanom/stargazers) )
 - [GameOutsideGame-Level-J](https://github.com/tinvv/GameOutsideGame-Level-J) ( [2 stars](https://github.com/tinvv/GameOutsideGame-Level-J/stargazers) )
 - [HMS](https://github.com/tinvv/HMS)
