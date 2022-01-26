@@ -136,7 +136,7 @@ My Projects
 - [tinvv](https://github.com/tinvv/tinvv) ( [3 stars](https://github.com/tinvv/tinvv/stargazers) )
 - [toGamer](https://github.com/tinvv/toGamer) ( [1 stars](https://github.com/tinvv/toGamer/stargazers) )
 - [web](https://github.com/tinvv/web) ( [1 stars](https://github.com/tinvv/web/stargazers) )
-- [wrong-lang](https://github.com/tinvv/wrong-lang) ( [4 stars](https://github.com/tinvv/wrong-lang/stargazers) )
+- [wrong-lang](https://github.com/tinvv/wrong-lang) ( [5 stars](https://github.com/tinvv/wrong-lang/stargazers) )
 - [wrongdroid](https://github.com/tinvv/wrongdroid)
 
 ## My contribution
