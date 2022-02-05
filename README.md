@@ -130,7 +130,7 @@ My Projects
 - [bing-chiller-and-super-idol](https://github.com/tinvv/bing-chiller-and-super-idol) ( [1 stars](https://github.com/tinvv/bing-chiller-and-super-idol/stargazers) )
 - [blog](https://github.com/tinvv/blog)
 - [digital-garden](https://github.com/tinvv/digital-garden) ( [1 stars](https://github.com/tinvv/digital-garden/stargazers) )
-- [minesweeple](https://github.com/tinvv/minesweeple) ( [3 stars](https://github.com/tinvv/minesweeple/stargazers) )
+- [minesweeple](https://github.com/tinvv/minesweeple) ( [4 stars](https://github.com/tinvv/minesweeple/stargazers) )
 - [plutie](https://github.com/tinvv/plutie) ( [1 stars](https://github.com/tinvv/plutie/stargazers) )
 - [profile-updater](https://github.com/tinvv/profile-updater) ( [5 stars](https://github.com/tinvv/profile-updater/stargazers) )
 - [shouldYou](https://github.com/tinvv/shouldYou) ( [2 stars](https://github.com/tinvv/shouldYou/stargazers) )
