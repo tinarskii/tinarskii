@@ -67,6 +67,7 @@ My Projects
 - [SadetLibraryAPI](https://github.com/tinvv/SadetLibraryAPI)
 - [aboutme-cli](https://github.com/tinvv/aboutme-cli)
 - [antibadwordbot](https://github.com/tinvv/antibadwordbot)
+- [antidiscordphishinglink](https://github.com/tinvv/antidiscordphishinglink)
 - [awesome-cheab-quotes](https://github.com/tinvv/awesome-cheab-quotes)
 - [awesome-maas](https://github.com/tinvv/awesome-maas)
 - [awesome-prayuth-works](https://github.com/tinvv/awesome-prayuth-works)
