@@ -6,6 +6,10 @@
   <img src="https://www.azquotes.com/vangogh-image-quotes/6/92/Quotation-Marie-Curie-Nothing-in-life-is-to-be-feared-it-is-only-6-92-91.jpg" />
 </p>
 
+<p align="center">
+  <i>I sure hope that Marie Curie help me to look smarter</i>
+</p>
+
 <details>
 <summary>Badge</summary>
 <img src="https://github-profile-trophy.vercel.app/?username=tinvv&theme=discord&column=8)" /> 
