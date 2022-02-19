@@ -12,16 +12,26 @@
 
 <details>
 <summary>Badge</summary>
-<img src="https://github-profile-trophy.vercel.app/?username=tinvv&theme=discord&column=8)" /> 
+  <p align='center'>
+  
+<img src="https://github-profile-trophy.vercel.app/?username=tinvv&theme=discord&column=9)" /> 
  
-![stats](https://github-readme-stats.vercel.app/api?username=tinvv&show_icons=true&line_height=24)
+<img src='https://github-readme-stats.vercel.app/api?username=tinvv&show_icons=true&line_height=24' />
+  
+  </p>
  
 </details>
 <details>
 <summary>What am I listening?</summary>
+
+  <p align='center'>
   
-[![img](https://spotify-github-profile.vercel.app/api/view?uid=0ysdo113nkd8khvn2kn7al2s5&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view.svg?uid=0ysdo113nkd8khvn2kn7al2s5&redirect=true)
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=0ysdo113nkd8khvn2kn7al2s5&redirect=true" align='center'>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=0ysdo113nkd8khvn2kn7al2s5&cover_image=true&theme=default" />
+    </a>
   
+  </p> 
+   
 </details>
 
 <details>
