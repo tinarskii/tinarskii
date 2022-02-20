@@ -79,6 +79,7 @@ My Projects
 - [DaiMai](https://github.com/tinvv/DaiMai)
 - [FunctinoScript](https://github.com/tinvv/FunctinoScript)
 - [Hello-World](https://github.com/tinvv/Hello-World)
+- [Nintod](https://github.com/tinvv/Nintod)
 - [SadetLibraryAPI](https://github.com/tinvv/SadetLibraryAPI)
 - [aboutme-cli](https://github.com/tinvv/aboutme-cli)
 - [antibadwordbot](https://github.com/tinvv/antibadwordbot)
