@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <i>I sure hope that Marie Curie help me to look smarter</i>
+  <i>My favourite scientist, Marie Curie</i>
 </p>
 
 <details>
