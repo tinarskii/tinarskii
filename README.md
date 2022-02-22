@@ -41,7 +41,7 @@ My Projects
   
 <!-- [PROFILE UPDATER]: START -->
 ## My Projects
-- [.dotfiles](https://github.com/tinvv/.dotfiles)
+- [.dotfiles](https://github.com/tinvv/.dotfiles) ( [1 stars](https://github.com/tinvv/.dotfiles/stargazers) )
 - [555](https://github.com/tinvv/555) ( [3 stars](https://github.com/tinvv/555/stargazers) )
 - [Anti-Chrome](https://github.com/tinvv/Anti-Chrome) ( [2 stars](https://github.com/tinvv/Anti-Chrome/stargazers) )
 - [AnyDictionary](https://github.com/tinvv/AnyDictionary) ( [2 stars](https://github.com/tinvv/AnyDictionary/stargazers) )
