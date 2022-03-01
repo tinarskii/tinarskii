@@ -72,7 +72,7 @@ My Projects
 - [tinvv.github.io](https://github.com/tinvv/tinvv.github.io)
 - [tinvv](https://github.com/tinvv/tinvv) ( [3 stars](https://github.com/tinvv/tinvv/stargazers) )
 - [toGamer](https://github.com/tinvv/toGamer) ( [1 stars](https://github.com/tinvv/toGamer/stargazers) )
-- [toddsbingh](https://github.com/tinvv/toddsbingh)
+- [toddsbingh](https://github.com/tinvv/toddsbingh) ( [1 stars](https://github.com/tinvv/toddsbingh/stargazers) )
 - [web](https://github.com/tinvv/web) ( [1 stars](https://github.com/tinvv/web/stargazers) )
 - [wrong-lang](https://github.com/tinvv/wrong-lang) ( [5 stars](https://github.com/tinvv/wrong-lang/stargazers) )
 - [wrongdroid](https://github.com/tinvv/wrongdroid)
