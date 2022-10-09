@@ -82,6 +82,7 @@ My Projects
 - [solid-useless](https://github.com/tinarskii/solid-useless)
 - [soundnep](https://github.com/tinarskii/soundnep) ( [1 stars](https://github.com/tinarskii/soundnep/stargazers) )
 - [suethai](https://github.com/tinarskii/suethai) ( [3 stars](https://github.com/tinarskii/suethai/stargazers) )
+- [t3narskii](https://github.com/tinarskii/t3narskii)
 - [tie](https://github.com/tinarskii/tie)
 - [tin-sci.me](https://github.com/tinarskii/tin-sci.me) ( [3 stars](https://github.com/tinarskii/tin-sci.me/stargazers) )
 - [tinarskii](https://github.com/tinarskii/tinarskii) ( [3 stars](https://github.com/tinarskii/tinarskii/stargazers) )
@@ -90,7 +91,6 @@ My Projects
 - [toddsbingh](https://github.com/tinarskii/toddsbingh) ( [1 stars](https://github.com/tinarskii/toddsbingh/stargazers) )
 - [veerakam-tin_sci](https://github.com/tinarskii/veerakam-tin_sci) ( [3 stars](https://github.com/tinarskii/veerakam-tin_sci/stargazers) )
 - [wlex](https://github.com/tinarskii/wlex)
-- [workspace](https://github.com/tinarskii/workspace)
 
 ## My contribution
 - [9speech](https://github.com/tinarskii/9speech)
