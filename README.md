@@ -55,7 +55,7 @@ My Projects
 - [JavaScript2JavaScript](https://github.com/tinarskii/JavaScript2JavaScript) ( [2 stars](https://github.com/tinarskii/JavaScript2JavaScript/stargazers) )
 - [Leviora](https://github.com/tinarskii/Leviora) ( [1 stars](https://github.com/tinarskii/Leviora/stargazers) )
 - [Manoonland](https://github.com/tinarskii/Manoonland)
-- [MukPakPak](https://github.com/tinarskii/MukPakPak) ( [9 stars](https://github.com/tinarskii/MukPakPak/stargazers) )
+- [MukPakPak](https://github.com/tinarskii/MukPakPak) ( [10 stars](https://github.com/tinarskii/MukPakPak/stargazers) [1 pulls](https://github.com/tinarskii/MukPakPak/pulls) [1 issues](https://github.com/tinarskii/MukPakPak/issues) )
 - [NeverStopLearning](https://github.com/tinarskii/NeverStopLearning)
 - [Noteable](https://github.com/tinarskii/Noteable) ( [1 stars](https://github.com/tinarskii/Noteable/stargazers) )
 - [PlutiaRoll](https://github.com/tinarskii/PlutiaRoll) ( [1 stars](https://github.com/tinarskii/PlutiaRoll/stargazers) )
