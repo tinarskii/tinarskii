@@ -72,6 +72,7 @@ My Projects
 - [blog](https://github.com/tinarskii/blog)
 - [digital-garden](https://github.com/tinarskii/digital-garden) ( [1 stars](https://github.com/tinarskii/digital-garden/stargazers) )
 - [hacktoberlist](https://github.com/tinarskii/hacktoberlist) ( [2 stars](https://github.com/tinarskii/hacktoberlist/stargazers) )
+- [live.tinarskii.com](https://github.com/tinarskii/live.tinarskii.com)
 - [minesweeple](https://github.com/tinarskii/minesweeple) ( [4 stars](https://github.com/tinarskii/minesweeple/stargazers) )
 - [pandadhada](https://github.com/tinarskii/pandadhada)
 - [plutie](https://github.com/tinarskii/plutie) ( [1 stars](https://github.com/tinarskii/plutie/stargazers) )
@@ -90,7 +91,6 @@ My Projects
 - [toGamer](https://github.com/tinarskii/toGamer) ( [1 stars](https://github.com/tinarskii/toGamer/stargazers) )
 - [toddsbingh](https://github.com/tinarskii/toddsbingh) ( [1 stars](https://github.com/tinarskii/toddsbingh/stargazers) )
 - [veerakam-tin_sci](https://github.com/tinarskii/veerakam-tin_sci) ( [3 stars](https://github.com/tinarskii/veerakam-tin_sci/stargazers) )
-- [wlex](https://github.com/tinarskii/wlex)
 
 ## My contribution
 - [9speech](https://github.com/tinarskii/9speech)
