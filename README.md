@@ -53,7 +53,7 @@ My Projects
 - [GameOutsideGame-Level-J](https://github.com/tinarskii/GameOutsideGame-Level-J) ( [2 stars](https://github.com/tinarskii/GameOutsideGame-Level-J/stargazers) )
 - [GetPloot](https://github.com/tinarskii/GetPloot) ( [1 stars](https://github.com/tinarskii/GetPloot/stargazers) )
 - [JavaScript2JavaScript](https://github.com/tinarskii/JavaScript2JavaScript) ( [2 stars](https://github.com/tinarskii/JavaScript2JavaScript/stargazers) )
-- [Leviora](https://github.com/tinarskii/Leviora) ( [1 stars](https://github.com/tinarskii/Leviora/stargazers) )
+- [Leviora](https://github.com/tinarskii/Leviora) ( [2 stars](https://github.com/tinarskii/Leviora/stargazers) )
 - [Manoonland](https://github.com/tinarskii/Manoonland)
 - [MukPakPak](https://github.com/tinarskii/MukPakPak) ( [9 stars](https://github.com/tinarskii/MukPakPak/stargazers) )
 - [NeverStopLearning](https://github.com/tinarskii/NeverStopLearning)
