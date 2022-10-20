@@ -121,7 +121,7 @@ My Projects
 - [dotfiles](https://github.com/tinarskii/dotfiles)
 - [dumb-questions-th](https://github.com/tinarskii/dumb-questions-th)
 - [free-for-dev](https://github.com/tinarskii/free-for-dev)
-- [hacktober](https://github.com/tinarskii/hacktober)
+- [hacktoberfest-museum](https://github.com/tinarskii/hacktoberfest-museum)
 - [jerma-action](https://github.com/tinarskii/jerma-action)
 - [kumworld](https://github.com/tinarskii/kumworld)
 - [learn.manoonchai.com](https://github.com/tinarskii/learn.manoonchai.com)
