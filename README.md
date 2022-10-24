@@ -90,7 +90,6 @@ My Projects
 - [tinvv.github.io](https://github.com/tinarskii/tinvv.github.io)
 - [toGamer](https://github.com/tinarskii/toGamer) ( [1 stars](https://github.com/tinarskii/toGamer/stargazers) )
 - [toddsbingh](https://github.com/tinarskii/toddsbingh) ( [1 stars](https://github.com/tinarskii/toddsbingh/stargazers) )
-- [veerakam-tin_sci](https://github.com/tinarskii/veerakam-tin_sci) ( [3 stars](https://github.com/tinarskii/veerakam-tin_sci/stargazers) )
 
 ## My contribution
 - [9speech](https://github.com/tinarskii/9speech)
@@ -141,6 +140,7 @@ My Projects
 - [that-paper-game](https://github.com/tinarskii/that-paper-game)
 - [thwordle](https://github.com/tinarskii/thwordle)
 - [timelapse](https://github.com/tinarskii/timelapse)
+- [torpleng-anisong](https://github.com/tinarskii/torpleng-anisong)
 - [torpleng](https://github.com/tinarskii/torpleng)
 - [twitch_tools](https://github.com/tinarskii/twitch_tools)
 <!-- [PROFILE UPDATER]: END -->
