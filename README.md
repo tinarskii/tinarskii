@@ -77,6 +77,7 @@ My Projects
 - [plutie](https://github.com/tinarskii/plutie) ( [1 stars](https://github.com/tinarskii/plutie/stargazers) )
 - [profile-updater](https://github.com/tinarskii/profile-updater) ( [5 stars](https://github.com/tinarskii/profile-updater/stargazers) )
 - [resume](https://github.com/tinarskii/resume) ( [1 stars](https://github.com/tinarskii/resume/stargazers) )
+- [russian-china-bad-words](https://github.com/tinarskii/russian-china-bad-words) ( [1 stars](https://github.com/tinarskii/russian-china-bad-words/stargazers) )
 - [shouldYou](https://github.com/tinarskii/shouldYou) ( [2 stars](https://github.com/tinarskii/shouldYou/stargazers) )
 - [simple-javascript-calculator](https://github.com/tinarskii/simple-javascript-calculator) ( [1 stars](https://github.com/tinarskii/simple-javascript-calculator/stargazers) )
 - [solid-useless](https://github.com/tinarskii/solid-useless)
@@ -142,5 +143,4 @@ My Projects
 - [timelapse](https://github.com/tinarskii/timelapse)
 - [torpleng](https://github.com/tinarskii/torpleng)
 - [twitch_tools](https://github.com/tinarskii/twitch_tools)
-- [webring](https://github.com/tinarskii/webring)
 <!-- [PROFILE UPDATER]: END -->
