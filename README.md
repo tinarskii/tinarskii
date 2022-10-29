@@ -70,6 +70,7 @@ My Projects
 - [bing-chiller-and-super-idol](https://github.com/tinarskii/bing-chiller-and-super-idol) ( [1 stars](https://github.com/tinarskii/bing-chiller-and-super-idol/stargazers) )
 - [blog](https://github.com/tinarskii/blog)
 - [digital-garden](https://github.com/tinarskii/digital-garden) ( [1 stars](https://github.com/tinarskii/digital-garden/stargazers) )
+- [dimension-tripper](https://github.com/tinarskii/dimension-tripper) ( [1 stars](https://github.com/tinarskii/dimension-tripper/stargazers) )
 - [hacktoberlist](https://github.com/tinarskii/hacktoberlist) ( [2 stars](https://github.com/tinarskii/hacktoberlist/stargazers) )
 - [live.tinarskii.com](https://github.com/tinarskii/live.tinarskii.com)
 - [minesweeple](https://github.com/tinarskii/minesweeple) ( [4 stars](https://github.com/tinarskii/minesweeple/stargazers) )
@@ -142,5 +143,4 @@ My Projects
 - [that-paper-game](https://github.com/tinarskii/that-paper-game)
 - [thwordle](https://github.com/tinarskii/thwordle)
 - [timelapse](https://github.com/tinarskii/timelapse)
-- [torpleng](https://github.com/tinarskii/torpleng)
 <!-- [PROFILE UPDATER]: END -->
