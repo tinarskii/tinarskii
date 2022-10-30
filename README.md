@@ -89,11 +89,11 @@ My Projects
 - [tin-sci.me](https://github.com/tinarskii/tin-sci.me) ( [3 stars](https://github.com/tinarskii/tin-sci.me/stargazers) )
 - [tinarskii](https://github.com/tinarskii/tinarskii) ( [3 stars](https://github.com/tinarskii/tinarskii/stargazers) )
 - [tinvv.github.io](https://github.com/tinarskii/tinvv.github.io)
-- [toGamer](https://github.com/tinarskii/toGamer) ( [1 stars](https://github.com/tinarskii/toGamer/stargazers) )
 - [toddsbingh](https://github.com/tinarskii/toddsbingh) ( [1 stars](https://github.com/tinarskii/toddsbingh/stargazers) )
 
 ## My contribution
 - [9speech](https://github.com/tinarskii/9speech)
+- [AniMuseum](https://github.com/tinarskii/AniMuseum)
 - [Chat-Client-and-Server-with-Java-Socket](https://github.com/tinarskii/Chat-Client-and-Server-with-Java-Socket)
 - [DaiMai](https://github.com/tinarskii/DaiMai)
 - [FunctinoScript](https://github.com/tinarskii/FunctinoScript)
