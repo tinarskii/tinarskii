@@ -87,7 +87,7 @@ My Projects
 - [t3narskii](https://github.com/tinarskii/t3narskii)
 - [tie](https://github.com/tinarskii/tie)
 - [tin-sci.me](https://github.com/tinarskii/tin-sci.me) ( [3 stars](https://github.com/tinarskii/tin-sci.me/stargazers) )
-- [tinarskii](https://github.com/tinarskii/tinarskii) ( [3 stars](https://github.com/tinarskii/tinarskii/stargazers) )
+- [tinarskii](https://github.com/tinarskii/tinarskii) ( [4 stars](https://github.com/tinarskii/tinarskii/stargazers) )
 - [tinvv.github.io](https://github.com/tinarskii/tinvv.github.io)
 - [toddsbingh](https://github.com/tinarskii/toddsbingh) ( [1 stars](https://github.com/tinarskii/toddsbingh/stargazers) )
 
