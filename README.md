@@ -26,9 +26,8 @@
 
   <p align='center'>
   
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=0ysdo113nkd8khvn2kn7al2s5&redirect=true" align='center'>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=0ysdo113nkd8khvn2kn7al2s5&cover_image=true&theme=default" />
-    </a>
+[![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000058.ffdd4f805d6c42dbbb82245071bf7f37.1322)](https://github.com/rayriffy/apple-music-github-profile)
+    
   
   </p> 
    
