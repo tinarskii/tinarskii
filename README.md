@@ -40,7 +40,7 @@ My Projects
   
 <!-- [PROFILE UPDATER]: START -->
 ## My Projects
-- [.com](https://github.com/tinarskii/.com) ( [2 stars](https://github.com/tinarskii/.com/stargazers) )
+- [.com](https://github.com/tinarskii/.com) ( [2 stars](https://github.com/tinarskii/.com/stargazers) [1 pulls](https://github.com/tinarskii/.com/pulls) [1 issues](https://github.com/tinarskii/.com/issues) )
 - [.dotfiles](https://github.com/tinarskii/.dotfiles) ( [1 stars](https://github.com/tinarskii/.dotfiles/stargazers) )
 - [.tech](https://github.com/tinarskii/.tech)
 - [555](https://github.com/tinarskii/555) ( [3 stars](https://github.com/tinarskii/555/stargazers) )
