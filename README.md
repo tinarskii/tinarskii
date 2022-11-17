@@ -153,7 +153,6 @@ My Projects
 - [Noteable](https://github.com/tinarskii/Noteable) ( [1 stars](https://github.com/tinarskii/Noteable/stargazers) )
 - [PlutiaRoll](https://github.com/tinarskii/PlutiaRoll) ( [1 stars](https://github.com/tinarskii/PlutiaRoll/stargazers) )
 - [Record-of-the-Earth](https://github.com/tinarskii/Record-of-the-Earth) ( [4 stars](https://github.com/tinarskii/Record-of-the-Earth/stargazers) )
-- [SalimQuotesTwitterBot](https://github.com/tinarskii/SalimQuotesTwitterBot) ( [5 stars](https://github.com/tinarskii/SalimQuotesTwitterBot/stargazers) )
 - [Sveltekit-TailwindCSS-template](https://github.com/tinarskii/Sveltekit-TailwindCSS-template) ( [2 stars](https://github.com/tinarskii/Sveltekit-TailwindCSS-template/stargazers) )
 - [THREE.js-resume](https://github.com/tinarskii/THREE.js-resume)
 - [THREE.js-solar-system](https://github.com/tinarskii/THREE.js-solar-system) ( [3 stars](https://github.com/tinarskii/THREE.js-solar-system/stargazers) [1 issues](https://github.com/tinarskii/THREE.js-solar-system/issues) )
@@ -182,6 +181,7 @@ My Projects
 - [tin-sci.me](https://github.com/tinarskii/tin-sci.me) ( [3 stars](https://github.com/tinarskii/tin-sci.me/stargazers) )
 - [tinarskii](https://github.com/tinarskii/tinarskii) ( [4 stars](https://github.com/tinarskii/tinarskii/stargazers) )
 - [tinvv.github.io](https://github.com/tinarskii/tinvv.github.io)
+- [toGamer](https://github.com/tinarskii/toGamer) ( [1 stars](https://github.com/tinarskii/toGamer/stargazers) )
 - [toddsbingh](https://github.com/tinarskii/toddsbingh) ( [1 stars](https://github.com/tinarskii/toddsbingh/stargazers) )
 
 ## My contribution
