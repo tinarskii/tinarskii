@@ -165,7 +165,7 @@ My Projects
 - [dimension-tripper](https://github.com/tinarskii/dimension-tripper) ( [1 stars](https://github.com/tinarskii/dimension-tripper/stargazers) )
 - [hacktoberlist](https://github.com/tinarskii/hacktoberlist) ( [2 stars](https://github.com/tinarskii/hacktoberlist/stargazers) )
 - [live.tinarskii.com](https://github.com/tinarskii/live.tinarskii.com)
-- [lynk.tinarskii.com](https://github.com/tinarskii/lynk.tinarskii.com)
+- [lynk.tinarskii.com](https://github.com/tinarskii/lynk.tinarskii.com) ( [1 pulls](https://github.com/tinarskii/lynk.tinarskii.com/pulls) [1 issues](https://github.com/tinarskii/lynk.tinarskii.com/issues) )
 - [minesweeple](https://github.com/tinarskii/minesweeple) ( [4 stars](https://github.com/tinarskii/minesweeple/stargazers) )
 - [pandadhada](https://github.com/tinarskii/pandadhada)
 - [plutie](https://github.com/tinarskii/plutie) ( [1 stars](https://github.com/tinarskii/plutie/stargazers) )
