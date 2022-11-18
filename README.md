@@ -165,6 +165,7 @@ My Projects
 - [dimension-tripper](https://github.com/tinarskii/dimension-tripper) ( [1 stars](https://github.com/tinarskii/dimension-tripper/stargazers) )
 - [hacktoberlist](https://github.com/tinarskii/hacktoberlist) ( [2 stars](https://github.com/tinarskii/hacktoberlist/stargazers) )
 - [live.tinarskii.com](https://github.com/tinarskii/live.tinarskii.com)
+- [lynk.tinarskii.com](https://github.com/tinarskii/lynk.tinarskii.com)
 - [minesweeple](https://github.com/tinarskii/minesweeple) ( [4 stars](https://github.com/tinarskii/minesweeple/stargazers) )
 - [pandadhada](https://github.com/tinarskii/pandadhada)
 - [plutie](https://github.com/tinarskii/plutie) ( [1 stars](https://github.com/tinarskii/plutie/stargazers) )
@@ -181,7 +182,6 @@ My Projects
 - [tin-sci.me](https://github.com/tinarskii/tin-sci.me) ( [3 stars](https://github.com/tinarskii/tin-sci.me/stargazers) )
 - [tinarskii](https://github.com/tinarskii/tinarskii) ( [4 stars](https://github.com/tinarskii/tinarskii/stargazers) )
 - [tinvv.github.io](https://github.com/tinarskii/tinvv.github.io)
-- [toGamer](https://github.com/tinarskii/toGamer) ( [1 stars](https://github.com/tinarskii/toGamer/stargazers) )
 - [toddsbingh](https://github.com/tinarskii/toddsbingh) ( [1 stars](https://github.com/tinarskii/toddsbingh/stargazers) )
 
 ## My contribution
