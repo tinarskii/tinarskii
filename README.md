@@ -160,6 +160,7 @@ My Projects
 - [awesome-curry-quotes](https://github.com/tinarskii/awesome-curry-quotes) ( [2 stars](https://github.com/tinarskii/awesome-curry-quotes/stargazers) )
 - [awesome-teacher-quotes](https://github.com/tinarskii/awesome-teacher-quotes)
 - [bing-chiller-and-super-idol](https://github.com/tinarskii/bing-chiller-and-super-idol) ( [1 stars](https://github.com/tinarskii/bing-chiller-and-super-idol/stargazers) )
+- [blog.tinarskii.com](https://github.com/tinarskii/blog.tinarskii.com) ( [1 stars](https://github.com/tinarskii/blog.tinarskii.com/stargazers) )
 - [blog](https://github.com/tinarskii/blog)
 - [digital-garden](https://github.com/tinarskii/digital-garden) ( [1 stars](https://github.com/tinarskii/digital-garden/stargazers) )
 - [dimension-tripper](https://github.com/tinarskii/dimension-tripper) ( [1 stars](https://github.com/tinarskii/dimension-tripper/stargazers) )
@@ -181,7 +182,6 @@ My Projects
 - [tin-sci.me](https://github.com/tinarskii/tin-sci.me) ( [3 stars](https://github.com/tinarskii/tin-sci.me/stargazers) )
 - [tinarskii](https://github.com/tinarskii/tinarskii) ( [3 stars](https://github.com/tinarskii/tinarskii/stargazers) )
 - [tinvv.github.io](https://github.com/tinarskii/tinvv.github.io)
-- [toGamer](https://github.com/tinarskii/toGamer) ( [1 stars](https://github.com/tinarskii/toGamer/stargazers) )
 - [toddsbingh](https://github.com/tinarskii/toddsbingh) ( [1 stars](https://github.com/tinarskii/toddsbingh/stargazers) )
 
 ## My contribution
