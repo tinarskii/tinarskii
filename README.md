@@ -163,6 +163,7 @@ My Projects
 - [cunny](https://github.com/tinarskii/cunny) ( [2 stars](https://github.com/tinarskii/cunny/stargazers) )
 - [digital-garden](https://github.com/tinarskii/digital-garden) ( [1 stars](https://github.com/tinarskii/digital-garden/stargazers) )
 - [dimension-tripper](https://github.com/tinarskii/dimension-tripper) ( [1 stars](https://github.com/tinarskii/dimension-tripper/stargazers) )
+- [golden-frame](https://github.com/tinarskii/golden-frame) ( [1 pulls](https://github.com/tinarskii/golden-frame/pulls) [1 issues](https://github.com/tinarskii/golden-frame/issues) )
 - [hacktoberlist](https://github.com/tinarskii/hacktoberlist) ( [2 stars](https://github.com/tinarskii/hacktoberlist/stargazers) )
 - [live.tinarskii.com](https://github.com/tinarskii/live.tinarskii.com)
 - [minesweeple](https://github.com/tinarskii/minesweeple) ( [4 stars](https://github.com/tinarskii/minesweeple/stargazers) )
@@ -181,7 +182,6 @@ My Projects
 - [t3narskii](https://github.com/tinarskii/t3narskii)
 - [tie](https://github.com/tinarskii/tie)
 - [tin-sci.me](https://github.com/tinarskii/tin-sci.me) ( [3 stars](https://github.com/tinarskii/tin-sci.me/stargazers) )
-- [tinarskii](https://github.com/tinarskii/tinarskii) ( [3 stars](https://github.com/tinarskii/tinarskii/stargazers) )
 
 ## My contribution
 - [9speech](https://github.com/tinarskii/9speech)
