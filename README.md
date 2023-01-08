@@ -156,7 +156,7 @@ My Projects
 - [anydict2](https://github.com/tinarskii/anydict2)
 - [awesome-curry-quotes](https://github.com/tinarskii/awesome-curry-quotes) ( [2 stars](https://github.com/tinarskii/awesome-curry-quotes/stargazers) )
 - [awesome-teacher-quotes](https://github.com/tinarskii/awesome-teacher-quotes)
-- [awesome-thai-king](https://github.com/tinarskii/awesome-thai-king) ( [1 stars](https://github.com/tinarskii/awesome-thai-king/stargazers) )
+- [awesome-thai-king](https://github.com/tinarskii/awesome-thai-king) ( [2 stars](https://github.com/tinarskii/awesome-thai-king/stargazers) )
 - [bing-chiller-and-super-idol](https://github.com/tinarskii/bing-chiller-and-super-idol) ( [1 stars](https://github.com/tinarskii/bing-chiller-and-super-idol/stargazers) )
 - [blog.tinarskii.com](https://github.com/tinarskii/blog.tinarskii.com) ( [1 stars](https://github.com/tinarskii/blog.tinarskii.com/stargazers) [1 pulls](https://github.com/tinarskii/blog.tinarskii.com/pulls) [1 issues](https://github.com/tinarskii/blog.tinarskii.com/issues) )
 - [blog](https://github.com/tinarskii/blog)
@@ -171,7 +171,6 @@ My Projects
 - [plutie](https://github.com/tinarskii/plutie) ( [1 stars](https://github.com/tinarskii/plutie/stargazers) )
 - [profile-updater](https://github.com/tinarskii/profile-updater) ( [5 stars](https://github.com/tinarskii/profile-updater/stargazers) )
 - [resume](https://github.com/tinarskii/resume) ( [1 stars](https://github.com/tinarskii/resume/stargazers) )
-- [russian-china-bad-words](https://github.com/tinarskii/russian-china-bad-words) ( [1 stars](https://github.com/tinarskii/russian-china-bad-words/stargazers) )
 - [shouldYou](https://github.com/tinarskii/shouldYou) ( [2 stars](https://github.com/tinarskii/shouldYou/stargazers) )
 - [simple-javascript-calculator](https://github.com/tinarskii/simple-javascript-calculator) ( [1 stars](https://github.com/tinarskii/simple-javascript-calculator/stargazers) )
 - [solid-tinarskii.com](https://github.com/tinarskii/solid-tinarskii.com) ( [2 stars](https://github.com/tinarskii/solid-tinarskii.com/stargazers) [1 pulls](https://github.com/tinarskii/solid-tinarskii.com/pulls) [1 issues](https://github.com/tinarskii/solid-tinarskii.com/issues) )
@@ -181,6 +180,7 @@ My Projects
 - [t3narskii](https://github.com/tinarskii/t3narskii)
 - [tie](https://github.com/tinarskii/tie)
 - [tin-sci.me](https://github.com/tinarskii/tin-sci.me) ( [3 stars](https://github.com/tinarskii/tin-sci.me/stargazers) )
+- [tinarskii.com](https://github.com/tinarskii/tinarskii.com) ( [3 stars](https://github.com/tinarskii/tinarskii.com/stargazers) [1 pulls](https://github.com/tinarskii/tinarskii.com/pulls) [1 issues](https://github.com/tinarskii/tinarskii.com/issues) )
 - [tinarskii](https://github.com/tinarskii/tinarskii) ( [3 stars](https://github.com/tinarskii/tinarskii/stargazers) )
 
 ## My contribution
