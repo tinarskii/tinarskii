@@ -180,7 +180,7 @@ My Projects
 - [t3narskii](https://github.com/tinarskii/t3narskii)
 - [tie](https://github.com/tinarskii/tie)
 - [tin-sci.me](https://github.com/tinarskii/tin-sci.me) ( [3 stars](https://github.com/tinarskii/tin-sci.me/stargazers) )
-- [tinarskii.com](https://github.com/tinarskii/tinarskii.com) ( [3 stars](https://github.com/tinarskii/tinarskii.com/stargazers) [1 pulls](https://github.com/tinarskii/tinarskii.com/pulls) [1 issues](https://github.com/tinarskii/tinarskii.com/issues) )
+- [tinarskii.com](https://github.com/tinarskii/tinarskii.com) ( [4 stars](https://github.com/tinarskii/tinarskii.com/stargazers) [1 pulls](https://github.com/tinarskii/tinarskii.com/pulls) [1 issues](https://github.com/tinarskii/tinarskii.com/issues) )
 - [tinarskii](https://github.com/tinarskii/tinarskii) ( [3 stars](https://github.com/tinarskii/tinarskii/stargazers) )
 
 ## My contribution
