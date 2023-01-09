@@ -156,7 +156,7 @@ My Projects
 - [anydict2](https://github.com/tinarskii/anydict2)
 - [awesome-curry-quotes](https://github.com/tinarskii/awesome-curry-quotes) ( [2 stars](https://github.com/tinarskii/awesome-curry-quotes/stargazers) )
 - [awesome-teacher-quotes](https://github.com/tinarskii/awesome-teacher-quotes)
-- [awesome-thai-king](https://github.com/tinarskii/awesome-thai-king) ( [7 stars](https://github.com/tinarskii/awesome-thai-king/stargazers) )
+- [awesome-thai-king](https://github.com/tinarskii/awesome-thai-king) ( [8 stars](https://github.com/tinarskii/awesome-thai-king/stargazers) )
 - [bing-chiller-and-super-idol](https://github.com/tinarskii/bing-chiller-and-super-idol) ( [1 stars](https://github.com/tinarskii/bing-chiller-and-super-idol/stargazers) )
 - [blog.tinarskii.com](https://github.com/tinarskii/blog.tinarskii.com) ( [1 stars](https://github.com/tinarskii/blog.tinarskii.com/stargazers) [1 pulls](https://github.com/tinarskii/blog.tinarskii.com/pulls) [1 issues](https://github.com/tinarskii/blog.tinarskii.com/issues) )
 - [blog](https://github.com/tinarskii/blog)
