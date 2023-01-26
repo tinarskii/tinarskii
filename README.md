@@ -181,7 +181,6 @@ My Projects
 - [t3narskii](https://github.com/tinarskii/t3narskii)
 - [tie](https://github.com/tinarskii/tie)
 - [tin-sci.me](https://github.com/tinarskii/tin-sci.me) ( [3 stars](https://github.com/tinarskii/tin-sci.me/stargazers) )
-- [tinarskii](https://github.com/tinarskii/tinarskii) ( [4 stars](https://github.com/tinarskii/tinarskii/stargazers) )
 
 ## My contribution
 - [9speech](https://github.com/tinarskii/9speech)
@@ -224,6 +223,7 @@ My Projects
 - [manoonchai.com](https://github.com/tinarskii/manoonchai.com)
 - [mikkicoding](https://github.com/tinarskii/mikkicoding)
 - [milerdark-vscode-theme](https://github.com/tinarskii/milerdark-vscode-theme)
+- [moldychat](https://github.com/tinarskii/moldychat)
 - [nohello-th](https://github.com/tinarskii/nohello-th)
 - [nunmun](https://github.com/tinarskii/nunmun)
 - [ophtusify](https://github.com/tinarskii/ophtusify)
