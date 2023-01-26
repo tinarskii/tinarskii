@@ -161,7 +161,7 @@ My Projects
 - [bing-chiller-and-super-idol](https://github.com/tinarskii/bing-chiller-and-super-idol) ( [1 stars](https://github.com/tinarskii/bing-chiller-and-super-idol/stargazers) )
 - [blog.tinarskii.com](https://github.com/tinarskii/blog.tinarskii.com) ( [1 stars](https://github.com/tinarskii/blog.tinarskii.com/stargazers) [1 pulls](https://github.com/tinarskii/blog.tinarskii.com/pulls) [1 issues](https://github.com/tinarskii/blog.tinarskii.com/issues) )
 - [blog](https://github.com/tinarskii/blog)
-- [cunny](https://github.com/tinarskii/cunny) ( [2 stars](https://github.com/tinarskii/cunny/stargazers) )
+- [cunny](https://github.com/tinarskii/cunny) ( [3 stars](https://github.com/tinarskii/cunny/stargazers) )
 - [digital-garden](https://github.com/tinarskii/digital-garden) ( [1 stars](https://github.com/tinarskii/digital-garden/stargazers) )
 - [dimension-tripper](https://github.com/tinarskii/dimension-tripper) ( [1 stars](https://github.com/tinarskii/dimension-tripper/stargazers) )
 - [golden-frame](https://github.com/tinarskii/golden-frame) ( [2 stars](https://github.com/tinarskii/golden-frame/stargazers) [1 pulls](https://github.com/tinarskii/golden-frame/pulls) [1 issues](https://github.com/tinarskii/golden-frame/issues) )
