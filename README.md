@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://www.azquotes.com/vangogh-image-quotes/6/92/Quotation-Marie-Curie-Nothing-in-life-is-to-be-feared-it-is-only-6-92-91.jpg" />
+  <img src="https://user-images.githubusercontent.com/68820538/222940221-bbf00eae-59a7-428b-9d4b-a8ec83c0a2a0.png" />
 </p>
 
 <p align="center">
-  <i>My favourite scientist, Marie Curie</i>
+  <i>My favourite scientist, Popuko and Pipimi</i>
 </p>
 
 <details>
@@ -128,6 +128,7 @@
 </details>
 
 <details>
+  
 <summary>
 My Projects
 </summary>
@@ -163,3 +164,7 @@ My Projects
 - [learn.manoonchai.com](https://github.com/tinarskii/learn.manoonchai.com)
 - [timelapse](https://github.com/tinarskii/timelapse)
 <!-- [PROFILE UPDATER]: END -->
+  
+  </details>
+
+<p align="right"><img src="http://hoshiiro.jp/img/story/bg_footer.png"/></p>
