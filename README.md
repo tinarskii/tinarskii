@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wakatime.com/badge/user/5cb7cd14-ac7e-4fc0-9f81-6036760cb6a3.svg" />
+  <img src="http://hoshiiro.jp/img/top/img_loading.gif" />
 </p>
 
 <p align="center">
