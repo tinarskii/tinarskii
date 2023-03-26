@@ -151,7 +151,7 @@ My Projects
 - [solid-tinarskii.com](https://github.com/tinarskii/solid-tinarskii.com) ( [2 stars](https://github.com/tinarskii/solid-tinarskii.com/stargazers) [1 pulls](https://github.com/tinarskii/solid-tinarskii.com/pulls) [1 issues](https://github.com/tinarskii/solid-tinarskii.com/issues) )
 - [soundnep](https://github.com/tinarskii/soundnep) ( [1 stars](https://github.com/tinarskii/soundnep/stargazers) )
 - [tin-sci.me](https://github.com/tinarskii/tin-sci.me) ( [3 stars](https://github.com/tinarskii/tin-sci.me/stargazers) )
-- [tinarskii.com](https://github.com/tinarskii/tinarskii.com) ( [3 stars](https://github.com/tinarskii/tinarskii.com/stargazers) )
+- [tinarskii.com](https://github.com/tinarskii/tinarskii.com) ( [3 stars](https://github.com/tinarskii/tinarskii.com/stargazers) [1 pulls](https://github.com/tinarskii/tinarskii.com/pulls) [1 issues](https://github.com/tinarskii/tinarskii.com/issues) )
 - [tinarskii](https://github.com/tinarskii/tinarskii) ( [3 stars](https://github.com/tinarskii/tinarskii/stargazers) )
 - [toGamer](https://github.com/tinarskii/toGamer) ( [1 stars](https://github.com/tinarskii/toGamer/stargazers) )
 - [toddsbingh](https://github.com/tinarskii/toddsbingh) ( [1 stars](https://github.com/tinarskii/toddsbingh/stargazers) )
