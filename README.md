@@ -1,3 +1,13 @@
+# Disclaimer
+1. I do school
+2. I no code'ing time
+3. I too lazy
+4. I back pain
+5. I prepare m.4
+6. Everything still here
+7. ok go back
+
+
 <p align="center">
   <img src="http://hoshiiro.jp/img/top/img_loading.gif" />
 </p>
