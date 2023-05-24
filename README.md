@@ -41,7 +41,7 @@ My Projects
 - [acsp-fired](https://github.com/tinarskii/acsp-fired) ( [1 stars](https://github.com/tinarskii/acsp-fired/stargazers) )
 - [awesome-curry-quotes](https://github.com/tinarskii/awesome-curry-quotes) ( [2 stars](https://github.com/tinarskii/awesome-curry-quotes/stargazers) )
 - [awesome-thai-king](https://github.com/tinarskii/awesome-thai-king) ( [8 stars](https://github.com/tinarskii/awesome-thai-king/stargazers) )
-- [bridge-write](https://github.com/tinarskii/bridge-write) ( [7 stars](https://github.com/tinarskii/bridge-write/stargazers) )
+- [bridge-write](https://github.com/tinarskii/bridge-write) ( [6 stars](https://github.com/tinarskii/bridge-write/stargazers) )
 - [golden-frame](https://github.com/tinarskii/golden-frame) ( [2 stars](https://github.com/tinarskii/golden-frame/stargazers) [1 pulls](https://github.com/tinarskii/golden-frame/pulls) [1 issues](https://github.com/tinarskii/golden-frame/issues) )
 - [hacktoberlist](https://github.com/tinarskii/hacktoberlist) ( [2 stars](https://github.com/tinarskii/hacktoberlist/stargazers) )
 - [minesweeple](https://github.com/tinarskii/minesweeple) ( [4 stars](https://github.com/tinarskii/minesweeple/stargazers) )
