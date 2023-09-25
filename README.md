@@ -1,4 +1,6 @@
+![](/name.png)
 ![](https://tinarskii.com/thumbnails/Riko_and_Compass.png)
+
 
 <details>
 <summary>Badge</summary>
