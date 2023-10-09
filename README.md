@@ -39,6 +39,7 @@ My Projects
 - [Awesome-Quotes](https://github.com/tinarskii/Awesome-Quotes) ( [2 stars](https://github.com/tinarskii/Awesome-Quotes/stargazers) )
 - [Concentra](https://github.com/tinarskii/Concentra) ( [1 stars](https://github.com/tinarskii/Concentra/stargazers) )
 - [Leviora](https://github.com/tinarskii/Leviora) ( [2 stars](https://github.com/tinarskii/Leviora/stargazers) )
+- [PyThong](https://github.com/tinarskii/PyThong)
 - [acsp-fired](https://github.com/tinarskii/acsp-fired) ( [1 stars](https://github.com/tinarskii/acsp-fired/stargazers) )
 - [astro-tinarskii.com](https://github.com/tinarskii/astro-tinarskii.com) ( [1 stars](https://github.com/tinarskii/astro-tinarskii.com/stargazers) )
 - [awesome-curry-quotes](https://github.com/tinarskii/awesome-curry-quotes) ( [2 stars](https://github.com/tinarskii/awesome-curry-quotes/stargazers) )
