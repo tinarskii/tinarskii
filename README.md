@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/5cb7cd14-ac7e-4fc0-9f81-6036760cb6a3.svg)](https://wakatime.com/@5cb7cd14-ac7e-4fc0-9f81-6036760cb6a3)
+
 <a href="https://app.daily.dev/furry"><img src="https://api.daily.dev/devcards/318389c0697d42eda334b4f2a497839c.png?r=4th" width="400" alt="Tinnaphat Somsang's Dev Card"/></a>
 
 ![](/name.png)
