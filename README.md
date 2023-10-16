@@ -1,15 +1,12 @@
 [![wakatime](https://wakatime.com/badge/user/5cb7cd14-ac7e-4fc0-9f81-6036760cb6a3.svg)](https://wakatime.com/@5cb7cd14-ac7e-4fc0-9f81-6036760cb6a3)
 
-<a href="https://app.daily.dev/furry"><img src="https://api.daily.dev/devcards/318389c0697d42eda334b4f2a497839c.png?r=4th" width="400" alt="Tinnaphat Somsang's Dev Card"/></a>
-
-![](/name.png)
-![](https://tinarskii.com/thumbnails/Riko_and_Compass.png)
-
+![ralsei-delta-rune](https://github.com/tinarskii/tinarskii/assets/68820538/0363eb85-f917-40de-aefb-c989c75145b2)
 
 <details>
 <summary>Badge</summary>
   <p align='center'>
-  
+  <a href="https://app.daily.dev/furry"><img src="https://api.daily.dev/devcards/318389c0697d42eda334b4f2a497839c.png?r=4th" width="400" alt="Tinnaphat Somsang's Dev Card"/></a>
+
 <img src="https://github-profile-trophy.vercel.app/?username=tinarskii&theme=discord&column=9)" /> 
  
 <img src='https://github-readme-stats.vercel.app/api?username=tinarskii&show_icons=true&line_height=24' />
