@@ -57,7 +57,6 @@ My Projects
 - [tinarskii](https://github.com/tinarskii/tinarskii) ( [2 stars](https://github.com/tinarskii/tinarskii/stargazers) [1 pulls](https://github.com/tinarskii/tinarskii/pulls) [1 issues](https://github.com/tinarskii/tinarskii/issues) )
 - [toGamer](https://github.com/tinarskii/toGamer) ( [1 stars](https://github.com/tinarskii/toGamer/stargazers) )
 - [toddsbingh](https://github.com/tinarskii/toddsbingh) ( [1 stars](https://github.com/tinarskii/toddsbingh/stargazers) )
-- [veerakam-tin_sci](https://github.com/tinarskii/veerakam-tin_sci) ( [3 stars](https://github.com/tinarskii/veerakam-tin_sci/stargazers) )
 - [watasalim](https://github.com/tinarskii/watasalim) ( [2 stars](https://github.com/tinarskii/watasalim/stargazers) )
 
 ## My contribution
