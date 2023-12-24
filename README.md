@@ -2,6 +2,8 @@
 
 ![ralsei-delta-rune](https://github.com/tinarskii/tinarskii/assets/68820538/0363eb85-f917-40de-aefb-c989c75145b2)
 
+![fake-information](https://skillicons.dev/icons?i=ts,js,html,css,prisma,vite,vue,astro,svelte,nuxt,react,next,figma,godot,idea,mysql,postgres,solidjs,supabase,tailwind,vercel,latex)
+
 <details>
 <summary>Badge</summary>
   <p align='center'>
