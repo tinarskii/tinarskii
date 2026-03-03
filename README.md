@@ -1,5 +1,8 @@
 [![wakatime](https://wakatime.com/badge/user/5cb7cd14-ac7e-4fc0-9f81-6036760cb6a3.svg)](https://wakatime.com/@5cb7cd14-ac7e-4fc0-9f81-6036760cb6a3)
 
+![hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=15217&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+)
+
 ![ralsei-delta-rune](https://github.com/tinarskii/tinarskii/assets/68820538/0363eb85-f917-40de-aefb-c989c75145b2)
 
 ![fake-information](https://skillicons.dev/icons?i=ts,js,html,css,prisma,vite,vue,astro,svelte,nuxt,react,next,figma,godot,idea,mysql,postgres,solidjs,supabase,tailwind,vercel,latex)
